@@ -3,7 +3,7 @@ What this is and what this is not:
 
 This application is to help train analysts and QA testers responsible for the constant improvement cycle of EW RF based defense or civilian applications. 
 The goal is for non-engineers to gain enough specialist knowledge so that requirements and design from the dev department can be more readily converted to preconditions and boundary parameters by QA for testing. 
-The subject matter represented here is not and SHOULD NOT be the idiosyncrasies of the incidental application under test. When making your own updates to a local copy of this tool, it is strongly advised that you not document any proprietary or sensitive informaion in an application such as this one. 
+The subject matter represented here is not and SHOULD NOT be the idiosyncrasies of the incidental application under test. When making your own updates to a local copy of this tool, it is strongly advised that you not document any proprietary or sensitive information in an application such as this one. 
 
 If you add to or update flashcard questions, stick with EW RF theory, definitions, and other nuts-and-bolts knowledge only!
 
